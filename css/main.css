@@ -1,0 +1,132 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 5, 2019, 7:37:14 PM
+    Author     : user
+*/
+
+#top-nav-bar {
+    top: 15px;
+    border-width: 0 0 1px;
+    background-color: #ffffff;
+    /* border-color: black; */
+    box-shadow: 0px 1px 1px grey;
+}
+
+#logo{
+    border: 0;
+    padding-bottom: 10px;
+    padding-top: 2px;
+    margin-bottom: 5px;
+
+}
+
+#jumb{
+    background-color: #fdfdfd;
+}
+
+div.para{
+    border-radius: 8px;
+    background-color: #f9fbfb;
+    margin-top: 40px;
+    padding: 30px 25px 24px 25px;
+}
+
+#head1{
+    text-decoration: #3ebcb3;
+}
+
+.btnGrp{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #3ebcb3;
+}
+
+button.btnNnormal{
+    background-color: #fff;
+    border-color: #3ebcb3;
+    border-style: solid;
+}
+button.btnMainContent{
+    margin-left: 25px;
+    border-radius: 0px;
+    margin-bottom: 50px;
+}
+b.btnMainText{
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.RowClassesh4{
+    font-size: 21px;
+}
+.RowClassesp{
+    margin-top: -5px;
+    font-size: 20px;
+}
+
+.mediaLeftPadding{
+    padding-left: 10px;
+}
+.mainContent{
+    background-color: #fdfdfd;
+}
+div.colColor{
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 29.333333%;
+    margin-right: 45px;
+    
+    height: 350px;
+    margin-bottom :70px
+}
+.parapadding{
+    padding-left: 26px;
+    margin-top: 20px;
+    padding-right: 53px;
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-bottom: 30px;
+}
+.divMedia{
+        padding-top: 30px;
+}
+
+img.imgHeight{
+    height: 75px;
+}
+
+.footerCSS{
+        margin-top: 20px;
+}
+
+.inlineSize{
+    inline-size: 70px;
+    font-size: 30px;
+
+}
+
+p.cpr{
+    font-size: 17px;
+    margin-bottom: -3px;
+    font-family: sans-serif;
+    color: grey;
+}
+
+a.inl{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+div.final{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
